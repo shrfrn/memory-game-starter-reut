@@ -26,3 +26,8 @@ main {
 .selected {
     background-color: lightblue;
 }
+
+.card.paired {
+    background-color: orange;
+}
+
